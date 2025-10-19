@@ -5,7 +5,7 @@ from google import genai
 from google.colab import userdata
 from google.genai import types
 import requests
-from IPython.display import display, Image
+from IPython.display import display, Image 
 
 # Image of a living space with decor 
 image_path = "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fit,w_730,h_521/k%2FPhoto%2FSeries%2F2019-10--power-hour-instant-pot%2FPower-Hour-Instant-Pot_001-rotated"
